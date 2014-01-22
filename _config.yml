@@ -3,6 +3,6 @@ url: https://122e4e-mapbox.global.ssl.fastly.net
 exclude:
   - README.markdown
   - nounproject
-baseurl: /maki
+# baseurl: /maki
 permalink: /:title.html
 markdown: rdiscount
