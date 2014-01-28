@@ -1,5 +1,5 @@
-api: http://localhost:4000
-url: http://localhost:4000
+api: https://122e4e-mapbox.global.ssl.fastly.net
+url: https://122e4e-mapbox.global.ssl.fastly.net
 exclude:
   - README.markdown
   - nounproject
