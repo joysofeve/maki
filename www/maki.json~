@@ -1169,7 +1169,7 @@
       "safe",
       "oecd"
     ],
-    "icon": "water-and-sanitation"
+    "icon": "water and sanitation"
     },
     {
     "name": "Govt and Civil Society",
@@ -1179,7 +1179,7 @@
       "safe",
       "oecd"
     ],
-    "icon": "govt-and-civil-society"
+    "icon": "govt and civil society"
     },
     {
     "name": "Basic Health",
@@ -1190,7 +1190,7 @@
       "learning",
       "oecd"
     ],
-    "icon": "basic-health"
+    "icon": "basic health"
     },
     {
     "name": "Infrastructure",

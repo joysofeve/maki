@@ -1,8 +1,9 @@
-api: https://122e4e-mapbox.global.ssl.fastly.net
-url: https://122e4e-mapbox.global.ssl.fastly.net
+api: http://localhost:4000
+url: http://localhost:4000
 exclude:
   - README.markdown
   - nounproject
 #baseurl: /maki
 permalink: /:title.html
 markdown: rdiscount
+excerpt_separator: ""
